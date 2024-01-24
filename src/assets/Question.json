@@ -214,6 +214,19 @@
                 }
             ],
             "explanation": "Using this Services are To handle business logic and share data and functions across components"
+        },
+        {
+            "questionText": "Javascript is the same as java?",
+            "options": [{
+                    "text": "true"
+                },
+                {
+                    "text": "fales",
+                    "correct":true
+                }
+                
+            ],
+            "explanation":"javascript is not same as java bothe are difference"
         }
     ]
 }
